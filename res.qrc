@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="prefijoNuevo">
+    <file>login.jpg</file>
+  </qresource>
+  <qresource>
+    <file>d67fdd224ad205b7c1ca86260cfbfe29.jpg</file>
+  </qresource>
+</RCC>
